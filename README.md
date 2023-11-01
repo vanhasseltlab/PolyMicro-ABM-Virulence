@@ -1,7 +1,7 @@
 # PolyMicro-ABM-Virulence
 ## An agent based model of a polymicrobial community with virulence-mediated interspecies interactions
 
-This folder contains all scripts and processed data needed to reproduce the analysis and figures shown in the manuscript “Investigating the dynamics of species-specific virulence traits in polymicrobial infections”. All code was produced by Eske van Meegen and Catharina Herzberg, Leiden Academic Center for Drug Research, Leiden University, The Netherlands. Parts of the model (Eske_Model_v6.py) and data processing is based on Herzberg C. (2023) Vanhasseltlab/polymicro-abm: Polymicro-abm. v1.0.0. An agent based modeling framework of an interactive, polymicrobial community during antimicrobial treatment. Zenodo.  doi:10.5281/zenodo.10039816 which can be found on https://github.com/vanhasseltlab/PolyMicro-ABM.
+This folder contains all scripts and processed data needed to reproduce the analysis and figures shown in the manuscript “Investigating the dynamics of species-specific virulence traits in polymicrobial infections”. All code was produced by Eske van Meegen and Catharina Herzberg, Leiden Academic Center for Drug Research, Leiden University, The Netherlands. Parts of the model (Eske_Model_v6.py) and data processing is based on Herzberg C. (2023) (Vanhasseltlab/polymicro-abm: Polymicro-abm. v1.0.0. An agent based modeling framework of an interactive, polymicrobial community during antimicrobial treatment. Zenodo.  doi:10.5281/zenodo.10039816) which can be found on https://github.com/vanhasseltlab/PolyMicro-ABM.
 
 ## Requirements:
 The analysis has been performed with python 3.8. The python package mesa 1.1.1 was used to create the model. Further dependencies: matplotlib 3.5.3, numpy 1.23.3, pandas 1.4.4
